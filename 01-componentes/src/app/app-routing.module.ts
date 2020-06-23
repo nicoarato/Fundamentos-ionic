@@ -76,6 +76,14 @@ const routes: Routes = [
     path: 'segments',
     loadChildren: () => import('./pages/segments/segments.module').then( m => m.SegmentsPageModule)
   },
+  {
+    path: 'slides',
+    loadChildren: () => import('./pages/slides/slides.module').then( m => m.SlidesPageModule)
+  },
+  {
+    path: 'tabs',
+    loadChildren: () => import('./pages/tabs/tabs.module').then( m => m.TabsPageModule)
+  },
 
 
 

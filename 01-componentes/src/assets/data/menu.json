@@ -97,5 +97,15 @@
         "icon": "headset-outline",
         "name": "Segments",
         "redirectTo": "/segments"
+    },
+    {
+        "icon": "albums",
+        "name": "Slides",
+        "redirectTo": "/slides"
+    },
+    {
+        "icon": "cog",
+        "name": "Tabs",
+        "redirectTo": "/tabs/account"
     }
 ]
