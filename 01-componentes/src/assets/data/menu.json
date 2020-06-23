@@ -77,5 +77,25 @@
         "icon": "tablet-portrait",
         "name": "PopOver",
         "redirectTo": "/popover"
+    },
+    {
+        "icon": "code-working",
+        "name": "ProgressBar",
+        "redirectTo": "/progress-bar"
+    },
+    {
+        "icon": "arrow-down-circle-outline",
+        "name": "Refreser",
+        "redirectTo": "/refresher"
+    },
+    {
+        "icon": "search-circle-outline",
+        "name": "Searchbar",
+        "redirectTo": "/searchbar"
+    },
+    {
+        "icon": "headset-outline",
+        "name": "Segments",
+        "redirectTo": "/segments"
     }
 ]

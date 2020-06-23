@@ -36,3 +36,92 @@
 .top-20 {
     margin-top: 20px;
 }
+
+
+/*
+
+    Copien este código dentro del archivo 
+    Global.scss
+
+*/
+
+.rojo span,
+.rojo .sc-ion-action-sheet-md {
+    color: red !important;
+}
+
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.animated.animate__infinite {
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.animated.fast {
+    -webkit-animation-duration: 400ms;
+    animation-duration: 400ms;
+}
+
+.animated.animate__slow {
+    -webkit-animation-duration: calc(1s * 2);
+    animation-duration: calc(1s * 2);
+    -webkit-animation-duration: calc(var(--animate-duration) * 2);
+    animation-duration: calc(var(--animate-duration) * 2);
+}
+
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+
+@-webkit-keyframes flash {
+    from,
+    50%,
+    to {
+        opacity: 1;
+    }
+    25%,
+    75% {
+        opacity: 0;
+    }
+}
+
+@keyframes flash {
+    from,
+    50%,
+    to {
+        opacity: 1;
+    }
+    25%,
+    75% {
+        opacity: 0;
+    }
+}
+
+.animate__flash {
+    -webkit-animation-name: flash;
+    animation-name: flash;
+}
