@@ -1,0 +1,914 @@
+[
+
+    {
+        "categoria": "comestible",
+        "nombre": "Arroz",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Arvejas",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "Ayudin",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "azucar",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "alfajores",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "Blem",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "Cif crema",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "Cif baño",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "Cif antigrasa",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Durazno lata",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Galletitas Dulces",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "vainillas",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Garbanzos",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Harina 000",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Harina 0000",
+        "precio": 0
+    },
+    {
+        "categoria": "baño",
+        "nombre": "papel higienico",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Hilerent edulcorante",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Cereales",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "Margarina",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "mayonesa",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "mostaza",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "ketchup",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "mayoliva",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "membrillo",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "dulce de batata",
+        "precio": 0
+    },
+    {
+        "categoria": "baño",
+        "nombre": "Shampu",
+        "precio": 0
+    },
+    {
+        "categoria": "baño",
+        "nombre": "acondicionador",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "chicitos",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "picadillo",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "pate",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "alcohol",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "alcohol en gel",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "powerade",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "procenex piso",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "protector femenino",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso crema",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "galletitas dulces",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "turron",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "yerba",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "tostadas",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "palmeritas",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "magdalenas",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "flan",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "gelatina",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "crema",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso barra",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso rallado",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso cremoso",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso muzzarela",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "queso untable",
+        "precio": 0
+    },
+    {
+        "categoria": "fiambres",
+        "nombre": "jamon cocido",
+        "precio": 0
+    },
+    {
+        "categoria": "fiambres",
+        "nombre": "salame",
+        "precio": 0
+    },
+    {
+        "categoria": "fiambres",
+        "nombre": "salamin",
+        "precio": 0
+    },
+    {
+        "categoria": "fiambres",
+        "nombre": "mortadela",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "tallarines",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "mostachol",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "ñoquis",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "ravioles",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "coditos",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "tirabuzon",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "fideo guisero",
+        "precio": 0
+    },
+    {
+        "categoria": "pasta",
+        "nombre": "spaghetti",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "morcilla",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "chorizo",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "asado",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "milanesa",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "pollo",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "costeleta",
+        "precio": 0
+    },
+    {
+        "categoria": "carne",
+        "nombre": "molida",
+        "precio": 0
+    },
+    {
+        "categoria": "panificado",
+        "nombre": "pan",
+        "precio": 0
+    },
+    {
+        "categoria": "panificado",
+        "nombre": "facturas",
+        "precio": 0
+    },
+    {
+        "categoria": "panificado",
+        "nombre": "pastafrola",
+        "precio": 0
+    },
+    {
+        "categoria": "panificado",
+        "nombre": "torta",
+        "precio": 0
+    },
+    {
+        "categoria": "infusiones",
+        "nombre": "te",
+        "precio": 0
+    },
+    {
+        "categoria": "infusiones",
+        "nombre": "matecocido",
+        "precio": 0
+    },
+    {
+        "categoria": "infusiones",
+        "nombre": "te tilo",
+        "precio": 0
+    },
+    {
+        "categoria": "infusiones",
+        "nombre": "te manzanilla",
+        "precio": 0
+    },
+    {
+        "categoria": "infusiones",
+        "nombre": "te saborizado",
+        "precio": 0
+    },
+    {
+        "categoria": "cafe",
+        "nombre": "cafe",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "cerveza rubia",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "cerveza negra",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "vino",
+        "precio": 0
+    },
+    {
+        "categoria": "bolsas",
+        "nombre": "bolsas",
+        "precio": 0
+    },
+    {
+        "categoria": "bolsas",
+        "nombre": "bolsas de residuos",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "baggio",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "toallas humedas",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "manteca",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "jabon tocador",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "jabon en polvo",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "jabon líquido de manos",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "jabon liquido de ropa",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "suavizante ropa",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "levadura",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "papel higienico 30m",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "papel higienico 50m",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "papel higienico 80m",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "papel higienico 100m",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "guantes",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "lavandina",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "esponja de acero",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "esponja cocina",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "papas fritas",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "desodorante hombre",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "desodorante mujer",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "leche",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "leche en polvo",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "Dulce de leche",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "mermelada",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "miel",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "snacks",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "esponja cocina",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "ajo",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "tomate",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "cebolla",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "tomate",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "calabaza",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "zapallito",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "zapallo",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "manzana",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "banana",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "naranja",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "pera",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "durazno",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "acelga",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "mandarina",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "pomelo",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "kiwi",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "berenjena",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "papas",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "lechuga",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "alcaucil",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "zanahoria",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "achicoria",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "perejil",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "verdeo",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "puerro",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "pimiento",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "morron",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "alcaucil",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "sandia",
+        "precio": 0
+    },
+    {
+        "categoria": "verduleria",
+        "nombre": "melon",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "detergente",
+        "precio": 0
+    },
+    {
+        "categoria": "panificados",
+        "nombre": "grisines",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "hamburguesa",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "tomate lata",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "pure de tomate",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "sal fina",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "sal entrefina",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "sal gruesa",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "aceite girasol",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "aceite de oliva",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "aceto",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "choclo en grano",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "escencia de vainilla",
+        "precio": 0
+    },
+    {
+        "categoria": "dulces",
+        "nombre": "chocolate",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "maiz picingallo",
+        "precio": 0
+    },
+    {
+        "categoria": "heladera",
+        "nombre": "salchichas",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "tapas de empanadas",
+        "precio": 0
+    },
+    {
+        "categoria": "aceites",
+        "nombre": "vinagre de alcohol",
+        "precio": 0
+    },
+    {
+        "categoria": "aceites",
+        "nombre": "fritolin",
+        "precio": 0
+    },
+    {
+        "categoria": "galletitas",
+        "nombre": "doritos",
+        "precio": 0
+    },
+    {
+        "categoria": "chocolate",
+        "nombre": "hamlet",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "bolsa para horno",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "calditos para cocinar",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "coco rallado",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "pañuelos descartables",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "harpic baño",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "pasta dental",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "cotonetes",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "cepillo de dientes",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "lisoform",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "mr musculo",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "jurel",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "caballa",
+        "precio": 0
+    },
+    {
+        "categoria": "comestible",
+        "nombre": "atun",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "virulana",
+        "precio": 0
+    },
+    {
+        "categoria": "bebidas",
+        "nombre": "gaseosa",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "rollo cocina",
+        "precio": 0
+    },
+    {
+        "categoria": "limpieza",
+        "nombre": "tabletas par mosquitos",
+        "precio": 0
+    },
+    {
+        "categoria": "cocina",
+        "nombre": "encendedor",
+        "precio": 0
+    },
+    {
+        "categoria": "cocina",
+        "nombre": "fosforos",
+        "precio": 0
+    },
+    {
+        "categoria": "higiene",
+        "nombre": "prestobarba",
+        "precio": 0
+    }
+
+]

@@ -1,0 +1,9 @@
+datos = [
+    {
+        producto: yerba,
+        marca: aguantadora
+        categoria: comestible,
+        detalle: 1kg,
+        precio: 102
+    }
+]

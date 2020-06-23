@@ -1,0 +1,19 @@
+<ion-header no-border>
+    <ion-toolbar>
+        <ion-back-button slot="start" defaultHref="/"></ion-back-button>
+        <ion-title>List - Reorder</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+    <ion-list>
+        <ion-reorder-group [disabled]="false" (ionItemReorder)="reorder($event)">
+            <ion-item *ngFor="let personaje of personajes">
+                <ion-label> {{ personaje }}</ion-label>
+                <ion-reorder slot="end"></ion-reorder>
+            </ion-item>
+        </ion-reorder-group>
+    </ion-list>
+    <ion-button expand="full" (click)="onClick()">Guardar</ion-button>
+</ion-content>
