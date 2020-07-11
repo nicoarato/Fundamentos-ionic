@@ -31,3 +31,5 @@ npm-debug.log*
 /www
 node_modules/*
 src/environments
+/plugins
+/resources
