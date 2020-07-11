@@ -23,7 +23,7 @@ export class Tab1Page implements OnInit {
   cargarNoticias( event? ) {
     this.noticiasService.getTopHeadlines().subscribe(
       info => {
-        console.log('Noticias', info );
+        // console.log('Noticias', info );
 
         if ( info.articles.length === 0) {
           event.target.disabled = true;
@@ -34,7 +34,7 @@ export class Tab1Page implements OnInit {
         this.noticias.push( ...info.articles);
 
         if (event) {
-          console.log(event.target);
+          // console.log(event.target);
           event.target.complete();
 
         }
