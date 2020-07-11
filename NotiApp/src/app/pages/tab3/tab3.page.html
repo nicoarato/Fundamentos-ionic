@@ -9,11 +9,11 @@
 <ion-content color="dark">
 
 
-    <ion-slides [options]="sliderOp">
+    <ion-slides [options]="sliderOp" *ngIf="datalocalService.noticias.length === 0">
         <ion-slide>
             <ion-label>No hay Favoritos</ion-label>
         </ion-slide>
     </ion-slides>
 
-    <app-noticias *ngIf="datalocalService.noticias.length > 0" [noticias]="datalocalService.noticias"></app-noticias>
+    <app-noticias [enFavoritos]="true" *ngIf="datalocalService.noticias.length > 0" [noticias]="datalocalService.noticias"></app-noticias>
 </ion-content>

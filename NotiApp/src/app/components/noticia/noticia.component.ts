@@ -5,6 +5,7 @@ import { InAppBrowser } from '@ionic-native/in-app-browser/ngx';
 import { ActionSheetController } from '@ionic/angular';
 import { SocialSharing } from '@ionic-native/social-sharing/ngx';
 import { DataLocalService } from '../../services/data-local.service';
+import { environment } from '../../../environments/environment';
 
 
 @Component({
@@ -16,12 +17,16 @@ export class NoticiaComponent implements OnInit {
 
   @Input() noticia: Article;
   @Input() indice: number;
+  @Input() enFavoritos;
+
   constructor( private iab: InAppBrowser,
                private actionSheetCtrl: ActionSheetController,
                private socialSharing: SocialSharing,
                private dataLocalService: DataLocalService) { }
 
-  ngOnInit() {}
+  ngOnInit() {
+
+  }
 
   abrirNoticia() {
 
@@ -30,6 +35,33 @@ export class NoticiaComponent implements OnInit {
   }
 
   async lanzarMenu() {
+
+    let guardarBtn;
+    // console.log(this.enFavoritos);
+    if ( !this.enFavoritos ){
+      guardarBtn = {
+        text: 'Favorito',
+        icon: 'star',
+        cssClass: 'action-dark',
+        handler: () => {
+          console.log('Favorito');
+          this.dataLocalService.guardarNoticia( this.noticia );
+        }
+      };
+
+    } else {
+      guardarBtn = {
+        text: 'Borrar Favorito',
+        icon: 'trash',
+        cssClass: 'action-dark',
+        handler: () => {
+          console.log('Borrar Favorito');
+          this.dataLocalService.borrarNoticia( this.noticia );
+        }
+      };
+    }
+
+
     const actionSheet = await this.actionSheetCtrl.create({
 
 
@@ -47,15 +79,9 @@ export class NoticiaComponent implements OnInit {
             this.noticia.url
           );
         }
-      }, {
-        text: 'Favorito',
-        icon: 'star',
-        cssClass: 'action-dark',
-        handler: () => {
-          console.log('Favorito');
-          this.dataLocalService.guardarNoticia( this.noticia );
-        }
-      }, {
+      },
+      guardarBtn,
+       {
         text: 'Cancelar',
         icon: 'close',
         cssClass: ['action-dark', 'cancelar'],
