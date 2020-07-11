@@ -13,10 +13,31 @@ export class Tab1Page implements OnInit {
 
   noticias: Article[] = [];
   ngOnInit() {
+    this.cargarNoticias();
+  }
+
+  loadData( event ) {
+    this.cargarNoticias( event );
+  }
+
+  cargarNoticias( event? ) {
     this.noticiasService.getTopHeadlines().subscribe(
       info => {
         console.log('Noticias', info );
+
+        if ( info.articles.length === 0) {
+          event.target.disabled = true;
+          event.target.complete();
+          return;
+        }
+
         this.noticias.push( ...info.articles);
+
+        if (event) {
+          console.log(event.target);
+          event.target.complete();
+
+        }
       }
     );
   }
