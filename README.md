@@ -2,7 +2,7 @@
 Repositorio para entender cada componente en IONIC.
 En este repositorio se muestra información de los componentes que se utilizan en ionic extraídos desde la documentación. 
 El mismo forma parte del curso Ioni5 de Fernando Herrera en Udemy.
-El resultado se puede visitar en [www.proyectobeta.tk](https://componentes-ionic.netlify.app).
+El resultado se puede visitar en [www.proyectobeta.tk](https://www.proyectobeta.tk).
 Para correr el proyecto en tu pc, descarga o clona el repositorio y ejecuta 'npm install', luego 'ionic serve'.
 
 
