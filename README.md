@@ -13,5 +13,5 @@ Para correr el proyecto en tu pc, descarga o clona el repositorio y ejecuta 'npm
 Repository to understand each component in IONIC.
 This repository shows information on the components used in ionic extracted from the documentation.
 It is part of Fernando Herrera's Ioni5 course on Udemy.
-The result can be visited at [www.proyectobeta.tk](https://componentes-ionic.netlify.app).
+The result can be visited at [www.proyectobeta.tk](https://www.proyectobeta.tk).
 To run the project on your pc, download or clone the repository and run 'npm install', then 'ionic serve'.
